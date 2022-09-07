@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivCollab_1", "ActivCollab_1.csproj", "{AC40792B-2E9F-4742-83D2-0A84E7478BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC40792B-2E9F-4742-83D2-0A84E7478BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC40792B-2E9F-4742-83D2-0A84E7478BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC40792B-2E9F-4742-83D2-0A84E7478BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC40792B-2E9F-4742-83D2-0A84E7478BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A68D15F-DEED-46C7-ADE7-20D08B195A71}
+	EndGlobalSection
+EndGlobal
